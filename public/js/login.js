@@ -15,3 +15,5 @@ function verificar(){
 function ocultar(){
   $("#btn_ingresar").hide();
 }
+
+//ok
